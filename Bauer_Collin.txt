@@ -1,0 +1,5 @@
+Здравствуй!
+
+My name is Collin Bauer. I am a Computer Science student at College of Charletson. At the college I fulfill a number of different roles at the college, including a tutor, a teaching assistant, and an active officer of our Association for Computing Machinery club. I've been pretty busy.
+
+In my spare time I enjoy researching different technologies coming out. Lately I've tried learning the Rust language, which has proved difficult, but enlightening. I'm hoping to apply such technologies to my work going forward.
